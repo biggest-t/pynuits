@@ -2,7 +2,7 @@
 
 This is a project meant to remake *some of* the GNU core utilities.
 
-###why?
+### why?
 
 why not?
 
